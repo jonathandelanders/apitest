@@ -5,7 +5,7 @@
 		"push"
 	],
 	"config": {
-		"url" : "https://50bbcb06.ngrok.com/apitest_master",
+		"url" : "https://apitest.ngrok.com/apitest_master",
 		"content_type" : "json"
 	}
 
