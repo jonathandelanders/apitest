@@ -5,7 +5,7 @@
 		"push"
 	],
 	"config": {
-		"url" : "https://iapitest.ngrok.com/apitest_master",
+		"url" : "https://biapitest.ngrok.com/apitest_master",
 		"content_type" : "json"
 	}
 
