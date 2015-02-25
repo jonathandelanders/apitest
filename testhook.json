@@ -1,6 +1,6 @@
 {
-	"name": "awscodedeploy",
-	"active" : false,
+	"name": "web",
+	"active" : true,
 	"events" : [
 		"push"
 	],
